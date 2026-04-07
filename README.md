@@ -4,6 +4,8 @@ Reactive observable streams for VRChat worlds — built for UdonSharp.
 
 Lets you push values through typed streams and react to changes via subscriptions, instead of polling state every frame or writing one-off event wiring by hand.
 
+If you find this useful, consider supporting development: [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/theexilednivera)
+
 ---
 
 ## Installation
