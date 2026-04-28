@@ -144,7 +144,7 @@ int filtered = _myWhereOp.output.Value.Int;
 
 ## Re-emitting the current value
 
-Call `Replay()` on the underlying token to re-broadcast the current value to all subscribers — useful for late-joining listeners that need the initial state:
+Call `Replay()` on the underlying token to re-broadcast the current value to all subscribers — useful for late-joining listeners that need the initial state: 
 
 ```csharp
 _score.token.Replay();
